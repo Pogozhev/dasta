@@ -1,0 +1,7 @@
+1. Отброс по минимальному времени на сбор заказа. - удаляем 2031 айди.
+2. По максимальному времени на дроп заказа удаляем - 
+3. Kick dropoff_to <360 && >1439
+4. Kick those who doesn't pay.
+5. Kick those who too fast to move
+-~25 to kick
+6. Kick those who ask to take faster than 6:00
